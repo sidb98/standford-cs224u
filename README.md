@@ -1,5 +1,7 @@
 # CS224u: Natural Language Understanding
 
+Lecture Video [playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp)
+
 Code for [the Stanford course](http://web.stanford.edu/class/cs224u/).
 
 Spring 2023
